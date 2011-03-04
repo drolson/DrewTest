@@ -5,5 +5,6 @@ public class testFile
 	{
 		System.out.println("hello");
 		System.out.println("THis is an update");
+		System.out.println("testing a commit");
 	}
 }
